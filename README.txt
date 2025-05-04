@@ -1,4 +1,7 @@
 All Figures are made in the following notebooks, with corresponding figures denoted per notebook. Resistive shooting data is stored in Shooting-AlfvenSweep-Scaled-Data, specific NIMROD contours are in Contour-Data, and parameter scaling (kz, vorticity, etc) are stored in Scaling.
+
+All data is attached in a ZIP format.
+
 Aspect-Ratio-Config.ipynb
 - Figure 1
 - Figure 9
