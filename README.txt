@@ -1,5 +1,7 @@
 All Figures are made in the following notebooks, with corresponding figures denoted per notebook. Resistive shooting data is stored in Shooting-AlfvenSweep-Scaled-Data, specific NIMROD contours are in Contour-Data, and parameter scaling (kz, vorticity, etc) are stored in Scaling.
 
+All raw initial value simulation data is contained on the PPPL cluster, and can be accessed upon request.
+
 Aspect-Ratio-Config.ipynb
 - Figure 1
 - Figure 9
@@ -55,3 +57,4 @@ Vorticity-Profiles.ipynb
 - Figure 15
 - Figure 19
 - Figure 20
+
